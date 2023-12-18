@@ -1,0 +1,11 @@
+body{
+    
+    height: 100vh;
+}
+body {
+    text-align: center;}
+
+.bg {
+    padding: 30px;
+    display: inline-block; 
+}

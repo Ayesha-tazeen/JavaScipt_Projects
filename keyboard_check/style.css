@@ -1,0 +1,13 @@
+.container{
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    color: aliceblue;
+}
+table,th,td{
+    border: solid white 2px;
+    border-radius: 1px;
+    padding: 10px;
+}
